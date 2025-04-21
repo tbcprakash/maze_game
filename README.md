@@ -69,5 +69,4 @@ While playing, the following will be shown on screen:
 
 ---
 
-## 📁 Project Files
 
