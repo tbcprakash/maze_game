@@ -1,0 +1,5 @@
+﻿  Game.cpp
+C:\Users\ACER\source\repos\MazeGame\MazeGame\Game.cpp(165,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ACER\source\repos\MazeGame\MazeGame\Game.cpp(174,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ACER\source\repos\MazeGame\MazeGame\Game.cpp(211,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  MazeGame.vcxproj -> C:\Users\ACER\source\repos\MazeGame\x64\Debug\MazeGame.exe
